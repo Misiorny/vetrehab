@@ -1,11 +1,10 @@
 import MainLayout from "../layouts/MainLayout";
-
-function Contact(){
+function Services(){
   return(
 	  <MainLayout>
-		<h1>Contact</h1>
+		<h1>Usługi</h1>
 	  </MainLayout>
   )
 }
 
-export default Contact;
+export default Services;
